@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClientApplication/1.0.0": {
+        "dependencies": {
+          "SearchWebApplication": "1.0.0"
+        },
+        "runtime": {
+          "ClientApplication.dll": {}
+        }
+      },
+      "SearchWebApplication/1.0.0": {
+        "runtime": {
+          "SearchWebApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClientApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchWebApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

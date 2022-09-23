@@ -1,10 +1,10 @@
 1)Pattern you want to search, needs to be given in appsettings.json in "FilePattern"
 few examples are given there and few are commented.
 
-2)Set SearchWebapplication and ClientApplication both as start-up project by right clicking on solution 
+2)Set SearchNumber.Api and SearchNumber.Client both as start-up project by right clicking on solution 
 and set as startup project.
 
-SearchWebapplication->Start
-ClientApplication->Start
+SearchNumber.Api->Start
+SearchNumber.Client->Start
 
 apply and ok

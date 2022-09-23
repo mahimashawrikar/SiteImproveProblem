@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;
-using SearchNumbersWebApplication.Repository;
+using SearchNumbers.Repository;
 using System.Diagnostics;
 
-namespace SearchNumbersWebApplication.Controllers
+namespace SearchNumbers.Controllers
 {
     [ApiController]
     [Route("[controller]")]

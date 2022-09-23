@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 
-namespace SearchNumbersWebApplication.Repository
+namespace SearchNumbers.Repository
 {
     public interface IGetNumbers
     {

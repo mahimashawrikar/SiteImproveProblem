@@ -1,4 +1,4 @@
-using SearchNumbersWebApplication.Repository;
+using SearchNumbers.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 

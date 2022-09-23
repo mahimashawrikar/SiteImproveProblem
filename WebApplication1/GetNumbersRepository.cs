@@ -8,7 +8,7 @@ using System.Diagnostics;
 using System.Collections.Generic;
 using System.Collections.Concurrent;
 
-namespace SearchNumbersWebApplication.Repository
+namespace SearchNumbers.Repository
 {
     public class GetNumbersRepository : IGetNumbers
     {
